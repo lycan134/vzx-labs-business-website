@@ -1,3 +1,4 @@
+
 export const projects = [
   {
     kind: "LIVE PROJECT",
@@ -14,16 +15,16 @@ export const projects = [
   },
   {
     kind: "STUDIO DEMO",
-    title: "A brighter local business",
+    title: "SolarWorks",
     description:
-      "A concept for a neighbourhood service business: clear offerings, a confident first impression, and a direct path to get in touch.",
-    href: "/contact",
-    label: "Discuss a business website",
+      "A business website demo showcasing a clean web presence, structured business information, and a professional experience designed to help visitors explore the business.",
+    href: "https://solarworks-website.vercel.app/",
+    label: "View the SolarWorks demo",
     tone: "blue",
-    artKicker: "GOOD THINGS START HERE",
-    artHeadline: ["made for", "your next"],
-    artCaption: "A VZX Labs design concept",
-    tags: ["Business website", "Lead generation", "Concept"],
+    artKicker: "A BRIGHTER DIGITAL FUTURE",
+    artHeadline: ["powering", "possibility"],
+    artCaption: "A VZX Labs business website demo",
+    tags: ["Business website", "Responsive design", "Web development"],
   },
   {
     kind: "STUDIO DEMO",
