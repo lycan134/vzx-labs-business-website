@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-// @ts-expect-error Next.js handles global CSS imports; TypeScript lacks a declaration for this file.
 import "./globals.css";
 import { Footer, Header } from "@/components/site";
 import { settings } from "@/data/settings";
